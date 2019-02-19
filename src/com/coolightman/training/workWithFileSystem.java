@@ -6,7 +6,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Date;
 
-public class workWithFile {
+public class workWithFileSystem {
 
     public static void main(String[] args) {
         workWithFile();
@@ -16,7 +16,7 @@ public class workWithFile {
     private static void workWithFile() {
         String dataDirectory = "D:\\Хлам\\Training\\data\\";
         File fp = new File(dataDirectory + "testFileSystem.txt");
-        if (fp.exists()) {
+        if (fp.exists() && fp.isFile()) {
             System.out.println(fp.getName() + " существует");
             System.out.println("Путь к файлу: \t" + fp.getPath());
             System.out.println("Абсолютный путь: \t" + fp.getAbsolutePath());
@@ -40,12 +40,21 @@ public class workWithFile {
 
     private static void workWithDir() {
         File dir = new File("D:\\Хлам\\Training\\data\\");
+        File dir1 = new File("data\\trainDir");
+        File dir2 = new File("data\\fr1/fr2");
+
+        dir1.mkdir();
+        dir2.mkdirs();
+
         if (dir.exists() && dir.isDirectory()) {
             System.out.println("каталог " + dir.getName() + " существует");
         }
 
         File[] files = dir.listFiles();
+//        File[] files1 = dir.listFiles(f->f.getName().endsWith(".txt"));
+
         assert files != null;
+//        assert files1 != null;
         for (File file : files) {
             Date date = new Date(file.lastModified());
             System.out.println("\n" + file.getPath() + " \t|" + file.length() + " \t|" + date);
