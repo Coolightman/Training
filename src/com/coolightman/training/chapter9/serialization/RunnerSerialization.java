@@ -1,4 +1,4 @@
-package com.coolightman.serialization;
+package com.coolightman.training.chapter9.serialization;
 //created by Coolightman
 //19.02.2019 14:26
 

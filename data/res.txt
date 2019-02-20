@@ -12,3 +12,10 @@ Java 5,0
 Java 6,0
 Java 7,0
 Java 8,0
+Java 1,1
+Java 1,2
+Java 1,4
+Java 5,0
+Java 6,0
+Java 7,0
+Java 8,0
