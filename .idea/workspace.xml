@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b38fc6b4-5f5f-43be-84b1-9d210d28b3fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/coolightman/training/chapter9/cases/VarA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coolightman/training/chapter9/readwrite/ReadAndWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coolightman/training/chapter9/cases/VarC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33" beforeDir="false" afterPath="$PROJECT_DIR$/data/textToWork.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/res.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/res.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coolightman/serialization/RunnerSerialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coolightman/training/chapter9/serialization/RunnerSerialization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coolightman/serialization/Serializator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coolightman/training/chapter9/serialization/Serializator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coolightman/serialization/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coolightman/training/chapter9/serialization/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coolightman/training/DemoWriter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coolightman/training/ReadAndWriteInFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coolightman/training/workWithFileSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coolightman/training/chapter9/filesystem/workWithFileSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/coolightman/training/chapter9/cases/VarA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coolightman/training/chapter9/cases/VarA.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,37 +18,37 @@
     <session id="-1311970191">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.22" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="31" />
-          <entry key="txt" value="18" />
+          <entry key="java" value="38" />
+          <entry key="txt" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="31" />
-          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="JAVA" value="38" />
+          <entry key="PLAIN_TEXT" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4449" />
-          <entry key="txt" value="9" />
+          <entry key="java" value="7120" />
+          <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4449" />
-          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="JAVA" value="7120" />
+          <entry key="PLAIN_TEXT" value="27" />
         </counts>
       </usages-collector>
     </session>
@@ -63,14 +56,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/chapter9/cases/VarA.java">
+        <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/chapter9/cases/VarC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="51" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
+            <state relative-caret-position="255">
+              <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -109,12 +100,14 @@
         <option value="$PROJECT_DIR$/data/textToWork.txt" />
         <option value="$PROJECT_DIR$/data/task1Res.txt" />
         <option value="$PROJECT_DIR$/src/com/coolightman/training/chapter9/cases/VarA.java" />
+        <option value="$PROJECT_DIR$/src/com/coolightman/training/chapter9/cases/VarC.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1937" />
-    <option name="width" value="1480" />
+    <option name="x" value="1929" />
+    <option name="y" value="23" />
+    <option name="width" value="1332" />
     <option name="height" value="1059" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -146,6 +139,13 @@
               <item name="Training" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter9" type="462c0819:PsiDirectoryNode" />
+              <item name="cases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter9" type="462c0819:PsiDirectoryNode" />
               <item name="filesystem" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -167,17 +167,41 @@
               <item name="Training" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Training" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="taskC_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Training" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="taskC_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Training" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="taskC_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Training" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="taskC_4" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550670225637" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550756303218" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
   <component name="RecentsManager">
@@ -202,22 +226,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VarA">
+  <component name="RunManager" selected="Application.VarC">
     <configuration name="DemoWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.coolightman.training.DemoWriter" />
-      <module name="Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.coolightman.training.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReadAndWriteFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coolightman.training.ReadAndWriteFile" />
       <module name="Training" />
       <extension name="coverage">
         <pattern>
@@ -255,6 +266,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VarC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coolightman.training.chapter9.cases.VarC" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coolightman.training.chapter9.cases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="workWithFileSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.coolightman.training.workWithFileSystem" />
       <module name="Training" />
@@ -269,19 +293,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReadAndWriteFile" />
       <item itemvalue="Application.workWithFileSystem" />
       <item itemvalue="Application.DemoWriter" />
       <item itemvalue="Application.RunnerSerialization" />
       <item itemvalue="Application.VarA" />
+      <item itemvalue="Application.VarC" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VarC" />
         <item itemvalue="Application.VarA" />
         <item itemvalue="Application.DemoWriter" />
         <item itemvalue="Application.workWithFileSystem" />
         <item itemvalue="Application.RunnerSerialization" />
-        <item itemvalue="Application.ReadAndWriteFile" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550580110961</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Chapter 9 practice">
+      <created>1550670268659</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550670268659</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -316,10 +347,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1937" y="0" width="1480" height="1059" extended-state="0" />
+    <frame x="1929" y="23" width="1332" height="1059" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49795082" visible="true" weight="0.16619718" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49795082" visible="true" weight="0.18789308" />
       <window_info id="Structure" order="1" sideWeight="0.5020492" side_tool="true" weight="0.20630631" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -328,7 +359,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991803" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32991803" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21721311" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -352,7 +383,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="work" />
-    <option name="LAST_COMMIT_MESSAGE" value="work" />
+    <MESSAGE value="Chapter 9 practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 9 practice" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/FileWriter.java">
@@ -380,66 +412,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/coolightman/serialization/RunnerSerialization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/coolightman/serialization/Serializator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/coolightman/serialization/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-          <folding>
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/coolightman/serialization/RunnerSerialization.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/coolightman/serialization/Serializator.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/coolightman/serialization/Student.java" />
     <entry file="file://$PROJECT_DIR$/data/res.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/serialization/RunnerSerialization.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/serialization/Serializator.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/serialization/Student.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/DemoWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="47" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="9" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/workWithFileSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/serialization/RunnerSerialization.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/serialization/Serializator.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/serialization/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/DemoWriter.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/workWithFileSystem.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/nio/cs/StreamDecoder.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
@@ -454,30 +437,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/ReadAndWriteFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="71" column="9" lean-forward="true" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/readwrite/ReadAndWrite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/filesystem/workWithFileSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" column="38" lean-forward="true" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/ReadAndWriteFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/readwrite/ReadAndWrite.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/filesystem/workWithFileSystem.java" />
     <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/chapter9/serialization/Serializator.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -487,20 +449,13 @@
     <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/chapter9/serialization/Student.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/chapter9/readwrite/ReadAndWrite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/task1Res.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/reading.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/data/wrote.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/task5Res.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/data/textToWork.txt">
@@ -510,21 +465,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/task1Res.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/chapter9/filesystem/workWithFileSystem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="33" column="37" lean-forward="true" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+        <state relative-caret-position="253">
+          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/taskC_1/taskResult.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/chapter9/readwrite/ReadAndWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/taskC_2/taskResult.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/taskC_3/taskResult.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/task2Res.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/task3Res.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/task4Res.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="2420" column="20" selection-start-line="2420" selection-start-column="20" selection-end-line="2420" selection-end-column="20" />
+          <folding>
+            <element signature="e#62860#62861#0" expanded="true" />
+            <element signature="e#62916#62917#0" expanded="true" />
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/chapter9/cases/VarA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="51" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
+        <state relative-caret-position="339">
+          <caret line="136" column="29" selection-start-line="136" selection-start-column="29" selection-end-line="136" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/taskC_4/taskResult.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="5" lean-forward="true" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/coolightman/training/chapter9/cases/VarC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
